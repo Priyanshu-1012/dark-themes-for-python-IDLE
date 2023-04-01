@@ -4,7 +4,8 @@ Tokyo Night, Shades of Purple, and Dracula theme for pythonIDLE
 
 
 Place this  file inside your ~/.idlerc/ folder or paste its contents inside /path/to/python/idlelib/config-highlight.def
- Adapted from vscode's TokyoNight, ShadesofPurple, Dracula.
+ 
+Adapted from vscode's TokyoNight, ShadesofPurple, Dracula.
 
 ```
 [tokyoNight]
